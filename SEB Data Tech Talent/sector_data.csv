@@ -1,0 +1,101 @@
+Name,Country,ISIN,Ticker,Sector,GICS,Industry Group,GICS.1,Industry,GICS.2,Sub-Industry,GICS.3,Market,Website
+ABB,Switzerland,CH0012221716,ABB SS Equity,Industrials,20,Capital Goods,2010,Electrical Equipment,201040,Electrical Components & Equipm,20104010,omx,http://www.abb.com
+Deutsche Bank,Germany,DE0005140008,DBK GR Equity,Financials,40,Diversified Financials,4020,Capital Markets,402030,Diversified Capital Markets,40203030,dax,http://www.db.com
+BMW,Germany,DE0005190003,BMW GR Equity,Consumer Discretionary,25,Automobiles & Components,2510,Automobiles,251020,Automobile Manufacturers,25102010,dax,http://www.bmw.de
+Beiersdorf,Germany,DE0005200000,BEI GR Equity,Consumer Staples,30,Household & Personal Products,3030,Personal Products,303020,Personal Products,30302010,dax,http://www.beiersdorf.de
+Continental,Germany,DE0005439004,CON GR Equity,Consumer Discretionary,25,Automobiles & Components,2510,Auto Components,251010,Auto Parts & Equipment,25101010,dax,http://www.continental.com
+Deutsche Post,Germany,DE0005552004,DPW GR Equity,Industrials,20,Transportation,2030,Air Freight & Logistics,203010,Air Freight & Logistics,20301010,dax,http://deutschepost.de
+Deutsche Telekom,Germany,DE0005557508,DTE GR Equity,Communication Services,50,Telecommunication Services,5010,Diversified Telecommunication,501010,Integrated Telecommunication S,50101020,dax,http://telekom.com
+Fresenius,Germany,DE0005785604,FRE GR Equity,Health Care,35,Health Care Equipment & Servic,3510,Health Care Providers & Servic,351020,Health Care Services,35102015,dax,http://www.fresenius.de
+Fresenius Medical Care,Germany,DE0005785802,FME GR Equity,Health Care,35,Health Care Equipment & Servic,3510,Health Care Providers & Servic,351020,Health Care Services,35102015,dax,http://www.freseniusmedicalcare.com/de
+Deutsche Börse,Germany,DE0005810055,DB1 GR Equity,Financials,40,Diversified Financials,4020,Capital Markets,402030,Financial Exchanges & Data,40203040,dax,http://www.deutsche-boerse.com
+HeidelbergCement,Germany,DE0006047004,HEI GR Equity,Materials,15,Materials,1510,Construction Materials,151020,Construction Materials,15102010,dax,http://www.heidelbergcement.com
+Henkel vz.,Germany,DE0006048432,HEN3 GR Equity,Consumer Staples,30,Household & Personal Products,3030,Household Products,303010,Household Products,30301010,dax,http://www.henkel.de
+Covestro,Germany,DE0006062144,1COV GR Equity,Materials,15,Materials,1510,Chemicals,151010,Specialty Chemicals,15101050,dax,http://covestro.com
+Infineon,Germany,DE0006231004,IFX GR Equity,Information Technology,45,Semiconductors & Semiconductor,4530,Semiconductors & Semiconductor,453010,Semiconductors,45301020,dax,http://www.infineon.com
+Merck,Germany,DE0006599905,MRK GR Equity,Health Care,35,Pharmaceuticals Biotechnology,3520,Pharmaceuticals,352020,Pharmaceuticals,35202010,dax,http://www.merckgroup.com/de
+PUMA,Germany,DE0006969603,PUM GR Equity,Consumer Discretionary,25,Consumer Durables & Apparel,2520,Textiles Apparel & Luxury Goo,252030,Footwear,25203020,dax,http://www.puma.com
+RWE,Germany,DE0007037129,RWE GR Equity,Utilities,55,Utilities,5510,Multi-Utilities,551030,Multi-Utilities,55103010,dax,http://www.rwe.com
+Daimler,Germany,DE0007100000,DAI GR Equity,Consumer Discretionary,25,Automobiles & Components,2510,Automobiles,251020,Automobile Manufacturers,25102010,dax,http://www.daimler.com
+SAP,Germany,DE0007164600,SAP GR Equity,Information Technology,45,Software & Services,4510,Software,451030,Application Software,45103010,dax,http://www.sap.com
+Sartorius vz.,Germany,DE0007165631,SRT3 GR Equity,Health Care,35,Health Care Equipment & Servic,3510,Health Care Equipment & Suppli,351010,Health Care Equipment,35101010,dax,http://www.sartorius.com
+Siemens,Germany,DE0007236101,SIE GR Equity,Industrials,20,Capital Goods,2010,Industrial Conglomerates,201050,Industrial Conglomerates,20105010,dax,http://www.siemens.de
+Volkswagen,Germany,DE0007664039,VOW3 GR Equity,Consumer Discretionary,25,Automobiles & Components,2510,Automobiles,251020,Automobile Manufacturers,25102010,dax,http://www.volkswagen.de
+Allianz,Germany,DE0008404005,ALV GR Equity,Financials,40,Insurance,4030,Insurance,403010,Multi-line Insurance,40301030,dax,http://www.allianz.com
+Münchener Rückversicherungs-Gesellschaft,Germany,DE0008430026,MUV2 GR Equity,Financials,40,Insurance,4030,Insurance,403010,Reinsurance,40301050,dax,http://www.munichre.com
+MTU Aero Engines,Germany,DE000A0D9PT0,MTX GR Equity,Industrials,20,Capital Goods,2010,Aerospace & Defense,201010,Aerospace & Defense,20101010,dax,http://mtu.de
+HelloFresh,Germany,DE000A161408,HFG GR Equity,Consumer Staples,30,Food & Staples Retailing,3010,Food & Staples Retailing,301010,Food Retail,30101030,dax,http://www.hellofresh.de
+Brenntag,Germany,DE000A1DAHH0,BNR GR Equity,Industrials,20,Capital Goods,2010,Trading Companies & Distributo,201070,Trading Companies & Distributo,20107010,dax,http://www.brenntag.com
+adidas,Germany,DE000A1EWWW0,ADS GR Equity,Consumer Discretionary,25,Consumer Durables & Apparel,2520,Textiles Apparel & Luxury Goo,252030,Apparel Accessories & Luxury,25203010,dax,http://adidas-group.com
+Vonovia,Germany,DE000A1ML7J1,VNA GR Equity,Real Estate,60,Real Estate,6010,Real Estate Management & Devel,601020,Real Estate Operating Companie,60102020,dax,http://www.vonovia.de
+Delivery Hero,Germany,DE000A2E4K43,DHER GR Equity,Consumer Discretionary,25,Retailing,2550,Internet & Direct Marketing Re,255020,Internet & Direct Marketing Re,25502020,dax,http://www.deliveryhero.com
+BASF,Germany,DE000BASF111,BAS GR Equity,Materials,15,Materials,1510,Chemicals,151010,Diversified Chemicals,15101020,dax,http://www.basf.com
+Bayer,Germany,DE000BAY0017,BAYN GR Equity,Health Care,35,Pharmaceuticals Biotechnology,3520,Pharmaceuticals,352020,Pharmaceuticals,35202010,dax,http://www.bayer.com
+E.ON,Germany,DE000ENAG999,EOAN GR Equity,Utilities,55,Utilities,5510,Multi-Utilities,551030,Multi-Utilities,55103010,dax,http://www.eon.com
+Siemens Energy,Germany,DE000ENER6Y0,ENR GR Equity,Industrials,20,Capital Goods,2010,Electrical Equipment,201040,Heavy Electrical Equipment,20104020,dax,http://www.siemens-energy.com
+Porsche,Germany,DE000PAH0038,PAH3 GR Equity,Consumer Discretionary,25,Automobiles & Components,2510,Automobiles,251020,Automobile Manufacturers,25102010,dax,http://www.porsche-se.com
+Siemens Healthineers,Germany,DE000SHL1006,SHL GR Equity,Health Care,35,Health Care Equipment & Servic,3510,Health Care Equipment & Suppli,351010,Health Care Equipment,35101010,dax,http://www.healthcare.siemens.de
+Symrise,Germany,DE000SYM9999,SY1 GR Equity,Materials,15,Materials,1510,Chemicals,151010,Specialty Chemicals,15101050,dax,http://symrise.com
+Zalando,Germany,DE000ZAL1111,1894239D SS Equity,Consumer Discretionary,25,Retailing,2550,Internet & Direct Marketing Re,255020,Internet & Direct Marketing Re,25502020,dax,http://www.zalando.de
+Nordea Bank Abp Registered Shs,Finland,FI4000297767,NDA SS Equity,Financials,40,Banks,4010,Banks,401010,Diversified Banks,40101010,omx,http://www.nordea.com
+AstraZeneca,United Kingdom,GB0009895292,AZN SS Equity,Health Care,35,Pharmaceuticals Biotechnology,3520,Pharmaceuticals,352020,Pharmaceuticals,35202010,omx,http://www.astrazeneca.com
+Linde,United Kingdom,IE00BZ12WP82,LIN US Equity,Materials,15,Materials,1510,Chemicals,151010,Industrial Gases,15101040,dax,http://linde.com
+Airbus,Netherlands,NL0000235190,AIR FP Equity,Industrials,20,Capital Goods,2010,Aerospace & Defense,201010,Aerospace & Defense,20101010,dax,http://www.airbus.com
+QIAGEN,Netherlands,NL0012169213,QGEN US Equity,Health Care,35,Pharmaceuticals Biotechnology,3520,Life Sciences Tools & Services,352030,Life Sciences Tools & Services,35203010,dax,http://www.qiagen.com
+Hennes & Mauritz,Sweden,SE0000106270,HMB SS Equity,Consumer Discretionary,25,Retailing,2550,Specialty Retail,255040,Apparel Retail,25504010,omx,http://www2.hm.com
+SKF Group,Sweden,SE0000108227,SKFB SS Equity,Industrials,20,Capital Goods,2010,Machinery,201060,Industrial Machinery,20106020,omx,http://www.skf.com
+Ericsson,Sweden,SE0000108656,ERICB SS Equity,Information Technology,45,Technology Hardware & Equipmen,4520,Communications Equipment,452010,Communications Equipment,45201020,omx,http://www.ericsson.com
+Svenska Cellulosa,Sweden,SE0000112724,SCAB SS Equity,Materials,15,Materials,1510,Paper & Forest Products,151050,Forest Products,15105010,omx,http://www.sca.com
+Skanska,Sweden,SE0000113250,SKAB SS Equity,Industrials,20,Capital Goods,2010,Construction & Engineering,201030,Construction & Engineering,20103010,omx,http://www.skanska.com
+Volvo,Sweden,SE0000115446,VOLVB SS Equity,Industrials,20,Capital Goods,2010,Machinery,201060,Construction Machinery & Heavy,20106010,omx,http://www.volvogroup.com
+Skandinaviska Enskilda Banken,Sweden,SE0000148884,SEBA SS Equity,Financials,40,Banks,4010,Banks,401010,Diversified Banks,40101010,omx,http://www.sebgroup.com
+Getinge,Sweden,SE0000202624,GETIB SS Equity,Health Care,35,Health Care Equipment & Servic,3510,Health Care Equipment & Suppli,351010,Health Care Equipment,35101010,omx,http://www.getingegroup.com
+Swedbank,Sweden,SE0000242455,SWEDA SS Equity,Financials,40,Banks,4010,Banks,401010,Diversified Banks,40101010,omx,http://www.swedbank.com
+Autoliv,Sweden,SE0000382335,ALIV SS Equity,Consumer Discretionary,25,Automobiles & Components,2510,Auto Components,251010,Auto Parts & Equipment,25101010,omx,http://www.autoliv.com
+Sandvik,Sweden,SE0000667891,SAND SS Equity,Industrials,20,Capital Goods,2010,Machinery,201060,Industrial Machinery,20106020,omx,http://www.sandvik.com
+Telia,Sweden,SE0000667925,TELIA SS Equity,Communication Services,50,Telecommunication Services,5010,Diversified Telecommunication,501010,Integrated Telecommunication S,50101020,omx,http://www.teliacompany.com
+Alfa Laval,Sweden,SE0000695876,ALFA SS Equity,Industrials,20,Capital Goods,2010,Machinery,201060,Industrial Machinery,20106020,omx,http://www.alfalaval.com
+Tele2,Sweden,SE0005190238,TEL2B SS Equity,Communication Services,50,Telecommunication Services,5010,Wireless Telecommunication Ser,501020,Wireless Telecommunication Ser,50102010,omx,http://www.tele2.com
+Assa Abloy,Sweden,SE0007100581,ASSAB SS Equity,Industrials,20,Capital Goods,2010,Building Products,201020,Building Products,20102010,omx,http://www.assaabloy.com
+Svenska Handelsbanken,Sweden,SE0007100599,SHBA SS Equity,Financials,40,Banks,4010,Banks,401010,Diversified Banks,40101010,omx,http://www.handelsbanken.com
+Essity Registered,Sweden,SE0009922164,ESSITYB SS Equity,Consumer Staples,30,Household & Personal Products,3030,Household Products,303010,Household Products,30301010,omx,http://www.essity.com
+Atlas Copco Registered,Sweden,SE0011166610,ATCOA SS Equity,Industrials,20,Capital Goods,2010,Machinery,201060,Industrial Machinery,20106020,omx,http://www.atlascopcogroup.com/en
+Atlas Copco Registered,Sweden,SE0011166628,ATCOB SS Equity,Industrials,20,Capital Goods,2010,Machinery,201060,Industrial Machinery,20106020,omx,http://www.atlascopcogroup.com/en
+Evolution Gaming Group Registered Shs,Sweden,SE0012673267,EVO SS Equity,Consumer Discretionary,25,Consumer Services,2530,Hotels Restaurants & Leisure,253010,Casinos & Gaming,25301010,omx,http://www.evolution.com
+Kinnevik Registered,Sweden,SE0015810247,KINVB SS Equity,Financials,40,Diversified Financials,4020,Diversified Financial Services,402010,Multi-Sector Holdings,40201030,omx,http://www.kinnevik.com
+Boliden Registered Shs,Sweden,SE0015811559,BOL SS Equity,Materials,15,Materials,1510,Metals & Mining,151040,Diversified Metals & Mining,15104020,omx,http://www.boliden.com
+Investor Registered,Sweden,SE0015811963,INVEB SS Equity,Financials,40,Diversified Financials,4020,Diversified Financial Services,402010,Multi-Sector Holdings,40201030,omx,http://www.investorab.com
+Swedish Match Registered Shs,Sweden,SE0015812219,SWMA SS Equity,Consumer Staples,30,Food Beverage & Tobacco,3020,Tobacco,302030,Tobacco,30203010,omx,http://www.swedishmatch.com
+Hexagon Registered,Sweden,SE0015961909,HEXAB SS Equity,Information Technology,45,Technology Hardware & Equipmen,4520,Electronic Equipment Instrume,452030,Electronic Equipment & Instrum,45203010,omx,http://www.hexagon.com
+Sinch Registered Shs,Sweden,SE0016101844,SINCH SS Equity,Information Technology,45,Software & Services,4510,Software,451030,Application Software,45103010,omx,http://www.sinch.com
+Electrolux Registered,Sweden,SE0016589188,ELUXB SS Equity,Consumer Discretionary,25,Consumer Durables & Apparel,2520,Household Durables,252010,Household Appliances,25201040,omx,http://www.electroluxgroup.com
+American Express,United States,US0258161092,AXP US Equity,Financials,40,Diversified Financials,4020,Consumer Finance,402020,Consumer Finance,40202010,dow,http://www.americanexpress.com
+Amgen,United States,US0311621009,AMGN US Equity,Health Care,35,Pharmaceuticals Biotechnology,3520,Biotechnology,352010,Biotechnology,35201010,dow,http://www.amgen.com
+Apple,United States,US0378331005,AAPL US Equity,Information Technology,45,Technology Hardware & Equipmen,4520,Technology Hardware & Storage,452020,Technology Hardware & Storage,45202030,dow,http://www.apple.com
+Boeing,United States,US0970231058,BA US Equity,Industrials,20,Capital Goods,2010,Aerospace & Defense,201010,Aerospace & Defense,20101010,dow,http://www.boeing.com
+Caterpillar,United States,US1491231015,CAT US Equity,Industrials,20,Capital Goods,2010,Machinery,201060,Construction Machinery & Heavy,20106010,dow,http://www.caterpillar.com
+Chevron,United States,US1667641005,CVX US Equity,Energy,10,Energy,1010,Oil Gas & Consumable Fuels,101020,Integrated Oil & Gas,10102010,dow,http://www.chevron.com
+Cisco,United States,US17275R1023,CSCO US Equity,Information Technology,45,Technology Hardware & Equipmen,4520,Communications Equipment,452010,Communications Equipment,45201020,dow,http://www.cisco.com
+Coca-Cola,United States,US1912161007,KO US Equity,Consumer Staples,30,Food Beverage & Tobacco,3020,Beverages,302010,Soft Drinks,30201030,dow,http://www.coca-colacompany.com
+Walt Disney,United States,US2546871060,DIS US Equity,Communication Services,50,Media & Entertainment,5020,Entertainment,502020,Movies & Entertainment,50202010,dow,http://www.thewaltdisneycompany.com
+Dow,United States,US2605571031,DOW US Equity,Materials,15,Materials,1510,Chemicals,151010,Commodity Chemicals,15101010,dow,http://www.dow.com
+Goldman Sachs,United States,US38141G1040,GS US Equity,Financials,40,Diversified Financials,4020,Capital Markets,402030,Investment Banking & Brokerage,40203020,dow,http://www.goldmansachs.com
+Home Depot,United States,US4370761029,HD US Equity,Consumer Discretionary,25,Retailing,2550,Specialty Retail,255040,Home Improvement Retail,25504030,dow,http://www.homedepot.com
+Honeywell,United States,US4385161066,HON US Equity,Industrials,20,Capital Goods,2010,Industrial Conglomerates,201050,Industrial Conglomerates,20105010,dow,http://www.honeywell.com
+Intel,United States,US4581401001,INTC US Equity,Information Technology,45,Semiconductors & Semiconductor,4530,Semiconductors & Semiconductor,453010,Semiconductors,45301020,dow,http://www.intel.com
+IBM,United States,US4592001014,IBM US Equity,Information Technology,45,Software & Services,4510,IT Services,451020,IT Consulting & Other Services,45102010,dow,http://www.ibm.com
+JPMorgan Chase,United States,US46625H1005,JPM US Equity,Financials,40,Banks,4010,Banks,401010,Diversified Banks,40101010,dow,http://www.jpmorganchase.com
+Johnson & Johnson,United States,US4781601046,JNJ US Equity,Health Care,35,Pharmaceuticals Biotechnology,3520,Pharmaceuticals,352020,Pharmaceuticals,35202010,dow,http://www.jnj.com
+McDonald's,United States,US5801351017,MCD US Equity,Consumer Discretionary,25,Consumer Services,2530,Hotels Restaurants & Leisure,253010,Restaurants,25301040,dow,http://corporate.mcdonalds.com/
+Merck,United States,US58933Y1055,MRK US Equity,Health Care,35,Pharmaceuticals Biotechnology,3520,Pharmaceuticals,352020,Pharmaceuticals,35202010,dow,http://www.merck.com
+Microsoft,United States,US5949181045,MSFT US Equity,Information Technology,45,Software & Services,4510,Software,451030,Systems Software,45103020,dow,http://www.microsoft.com
+Nike,United States,US6541061031,NKE US Equity,Consumer Discretionary,25,Consumer Durables & Apparel,2520,Textiles Apparel & Luxury Goo,252030,Footwear,25203020,dow,http://www.nike.com
+Procter & Gamble,United States,US7427181091,PG US Equity,Consumer Staples,30,Household & Personal Products,3030,Household Products,303010,Household Products,30301010,dow,http://www.pg.com
+Salesforce,United States,US79466L3024,CRM US Equity,Information Technology,45,Software & Services,4510,Software,451030,Application Software,45103010,dow,http://www.salesforce.com
+3M,United States,US88579Y1010,MMM US Equity,Industrials,20,Capital Goods,2010,Industrial Conglomerates,201050,Industrial Conglomerates,20105010,dow,http://www.3m.com
+Travelers,United States,US89417E1091,TRV US Equity,Financials,40,Insurance,4030,Insurance,403010,Property & Casualty Insurance,40301040,dow,http://www.travelers.com
+UnitedHealth,United States,US91324P1021,UNH US Equity,Health Care,35,Health Care Equipment & Servic,3510,Health Care Providers & Servic,351020,Managed Health Care,35102030,dow,http://www.unitedhealthgroup.com
+Verizon,United States,US92343V1044,VZ US Equity,Communication Services,50,Telecommunication Services,5010,Diversified Telecommunication,501010,Integrated Telecommunication S,50101020,dow,http://www.verizon.com
+Visa,United States,US92826C8394,V US Equity,Information Technology,45,Software & Services,4510,IT Services,451020,Data Processing & Outsourced S,45102020,dow,http://usa.visa.com
+Walmart,United States,US9311421039,WMT US Equity,Consumer Staples,30,Food & Staples Retailing,3010,Food & Staples Retailing,301010,Hypermarkets & Super Centers,30101040,dow,http://www.corporate.walmart.com
+Walgreens Boots Alliance,United States,US9314271084,WBA US Equity,Consumer Staples,30,Food & Staples Retailing,3010,Food & Staples Retailing,301010,Drug Retail,30101010,dow,http://www.walgreensbootsalliance.com
